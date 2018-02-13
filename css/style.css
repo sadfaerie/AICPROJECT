@@ -1,0 +1,69 @@
+
+
+body {
+    font-family: 'Rubik', sans-serif !important;
+
+
+}
+div > h2 {
+    letter-spacing: 10px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+p {
+    text-indent: 30px;
+}
+
+/* NAVIGATION BAR */
+.navbar {
+    font-family: 'Roboto Mono', monospace !important;
+    margin-bottom: 0;
+    background-color: #1c5e80;
+    border: 0;
+    font-size: 11px !important;
+    letter-spacing: 4px;
+    box-shadow: 2 2;
+}
+.navbar li a, .navbar .navbar-brand {
+    color: #d5d5d5 !important;
+}
+.nav-tabs li a {
+    color: #777;
+}
+.navbar-nav li a:hover {
+    color: #fff !important;
+}
+.navbar-nav li.active a {
+    color: #fff !important;
+    background-color: #8bc1d0 !important;
+}
+.navbar-default .navbar-toggle {
+    border-color: transparent;
+}
+.icon-bar {
+  color: #fff !important;
+}
+.open .dropdown-toggle {
+    color: #fff;
+    background-color: #8bc1d0 !important;
+}
+.dropdown-menu li a {
+    color: #000 !important;
+    text-align: right;
+}
+.dropdown-menu li a:hover {
+    background-color: #8bc1d0 !important;
+}
+
+
+
+
+
+
+
+
+footer {
+    background-color: #2d2d30;
+    color: #fff;
+}
