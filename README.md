@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # stream1project
 
 1) Purpose: 
@@ -50,3 +51,6 @@ Testing:
 
 
 
+=======
+# AICPROJECT
+>>>>>>> 65035edd8bef70b42d4266e7d0ade51d7da2e8e5
