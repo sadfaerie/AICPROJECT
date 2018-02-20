@@ -48,6 +48,9 @@ HTML
 
 
 Testing:
+20/02/18 - Set up AWS EC2 LAMP server to test responsive design across various devices. 
+http://34.249.74.161/
+- identified need to add side margins, as text content was difficult to read. 
 
 
 
